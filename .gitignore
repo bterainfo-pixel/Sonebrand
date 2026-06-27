@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+.vscode/
+sone-brand/
+TEST3/
+sonebrand/
+package-lock.json
+Audex-1je8g.ttf
